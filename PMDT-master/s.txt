@@ -1,0 +1,144 @@
+All Monitor Data
+Integral - 02/02/20 19:00:10
+
+                        05/10/20 08:15:28    05/10/20 08:15:29
+                           Monitor 1            Monitor 2
+Course
+ Centerline RF Level          120                101.2                                                 %
+ Centerline DDM               -0.002               -0.002                                                DDM
+ Centerline SDM               41.0                 40.9                                                  %
+ Ident Mod Percent            8.5                  8.6                                                   %
+ Width DDM                    0.155                0.155                                                 DDM
+ Ident Status                Normal              Normal
+ Synth Lock / Rev Sense        _    _              _    _
+
+Clearance
+ Centerline RF Level          100.0                100.0                                                 %
+ Centerline DDM               0.007                0.007                                                 DDM
+ Centerline SDM               40.6                 40.3                                                  %
+ Ident Mod Percent            7.4                  7.5                                                   %
+ Width DDM                    0.153                0.153                                                 DDM
+ Ident Status                Normal              Normal
+ Synth Lock / Rev Sense        _    _              _    _
+
+RF Freq Difference            8000                 8000                                                  Hz
+Antenna Fault                    _                    _
+
+All Monitor Data
+Standby - 02/23/20 11:25:26
+
+                        02/23/20 11:25:23    02/23/20 11:25:24
+                           Monitor 1            Monitor 2
+Course
+ Centerline RF Level          100.9                101.0                                                 %
+ Centerline DDM               0.000                0.000                                                 DDM
+ Centerline SDM               39.9                 39.8                                                  %
+ Ident Mod Percent            8.0                  8.0                                                   %
+ Width DDM                    0.155                0.155                                                 DDM
+ Ident Status                Normal              Normal
+ Synth Lock / Rev Sense        _    _              _    _
+
+Clearance
+ Centerline RF Level          100.0                100.1                                                 %
+ Centerline DDM               0.001                0.001                                                 DDM
+ Centerline SDM               39.2                 39.1                                                  %
+ Ident Mod Percent            8.5                  8.5                                                   %
+ Width DDM                    0.143                0.144                                                 DDM
+ Ident Status                Normal              Normal
+ Synth Lock / Rev Sense        _    _              _    _
+
+RF Freq Difference            7999                 7999                                                  Hz
+Antenna Fault                    _                    _
+
+All Monitor Data
+Field Monitors - 02/02/20 19:00:45
+
+Near Field Monitor Course Position
+              05/10/20 08:16:05      05/10/20 08:15:59
+                 Monitor 1              Monitor 2
+ RF Level            89.4                   89.9                                                      %
+ DDM                 -0.014                 -0.012                                                    DDM
+ SDM                 41.1                   41.0                                                      %
+ Comm Fault            _                      _
+
+
+Monitor 1 Data
+Integral - 02/02/20 19:01:05
+
+05/10/20 08:16:23          Course Ident Status  Normal                Clearance Ident Status  Normal
+_  Antenna Fault           _  Course Synthesizer Lock Fault Status    _  Clearance Synthesizer Lock Fault Status
+_  Comm Fault              _  Course Reverse Sense                    _  Clearance Reverse Sense
+
+                       Alarm Low       PreAlarm Low     Data            PreAlarm High    Alarm High
+Course
+ Centerline RF Level       80.0            85.0             101.2           120.0            130.0       %
+ Centerline DDM            -0.015          -0.012           -0.002          0.012            0.015       DDM
+ Centerline SDM            36.0            37.0             40.9            43.0             44.0        %
+ Ident Mod Percent         6.0             6.5              8.5             9.5              10.0        %
+ Width DDM                 0.130           0.140            0.155           0.170            0.190       DDM
+
+Clearance
+ Centerline RF Level       82.0            85.0             100.0           118.0            130.0       %
+ Centerline DDM            -0.040          -0.015           0.007           0.015            0.019       DDM
+ Centerline SDM            32.0            37.0             40.6            43.0             44.9        %
+ Ident Mod Percent         6.0             6.5              7.6             9.5              10.0        %
+ Width DDM                 0.131           0.140            0.153           0.170            0.185       DDM
+
+RF Freq Difference         7600            7700             8000            8300             8400        Hz
+
+
+Monitor 1 Data
+Field Monitors - 02/02/20 19:01:25
+
+05/10/20 08:16:44
+Near Field Monitor Course Position
+ _   Communications Fault
+
+                 Alarm Low        PreAlarm Low     Data             PreAlarm High    Alarm High
+ RF Level            55.0             75.0             90.3             175.0            200.0        %
+
+ DDM                 -0.020           -0.017           -0.014           0.017            0.020        DDM
+
+ SDM                 30.0             30.0             40.9             43.0             44.0         %
+Transmitter Data
+Wattmeter Data - 02/02/20 19:01:50
+
+05/10/20 08:17:08
+Course Transmitter Parameters                            Clearance Transmitter Parameters
+ CSB Forward Power                   15.300   Watts        CSB Forward Power                   13.000   Watts
+ CSB Reflected Power                 0.040    Watts        CSB Reflected Power                 0.065    Watts
+ SBO Forward Power                   0.417    Watts        SBO Forward Power                   0.363    Watts
+ SBO Reflected Power                 0.000    Watts        SBO Reflected Power                 0.000    Watts
+
+Standby Course Transmitter Parameters                    Standby Clearance Transmitter Parameters
+ CSB Forward Power                   0.000    Watts        CSB Forward Power                   0.000    Watts
+ SBO Forward Power                   0.000    Watts        SBO Forward Power                   0.000    Watts
+
+
+RMS Data
+A/D Data - 02/02/20 19:02:08
+
+05/10/20 08:17:27     Lo Limit   Volts      Hi Limit                             Lo Limit   Volts      Hi Limit
+Spare A/D 1             -5.00      0.00       5.00
+Spare A/D 2             -5.00      0.00       5.00
+Spare A/D 3             -5.00      0.00       5.00          +5 VDC Monitor 1       4.80       4.94       5.20
+Spare A/D 4             -5.00      0.00       5.00          +12 VDC Monitor 1      11.75      12.26      13.25
+Spare A/D 5             -5.00      0.00       5.00          -12 VDC Monitor 1      -13.25     -11.93     -11.75
+Spare A/D 6             -5.00      0.00       5.00          +24 VDC Monitor 1      23.3       24.7       25.2
+Spare A/D 7             -5.00      0.00       5.00          +5 VDC Monitor 2       4.80       4.99       5.20
+Spare A/D 8             -5.00      0.00       5.00          +12 VDC Monitor 2      11.75      12.14      13.25
+Spare A/D 9             -5.00      0.00       5.00          -12 VDC Monitor 2      -13.25     -11.88     -11.75
+Spare A/D 10            -5.00      0.00       5.00          +24 VDC Monitor 2      23.3       23.9       25.2
+                      Lo Limit   Deg C      Hi Limit                             Lo Limit   Deg C      Hi Limit
+Inside Temp             0          24         30            Outside Temp           -25        -25        70
+                      Lo Limit   Volts      Hi Limit                             Lo Limit   Amps       Hi Limit
+AC Input                200.0      227.6      250.0                                1.0        1.8        7.0
+OB Light                           226.9                                           0.0        0.0        20.0
+Tx 1 - 24 V PS          23.3       24.8       25.2                                 3.0        3.1        15.0
+Tx 2 - 24 V PS          23.3       24.1       25.2                                 3.0        8.9        15.0
+Battery 1               21.5       27.1       30.0                                 -6.0       0.0        10.0
+Battery 2               21.5       27.0       30.0                                 -6.0       0.0        10.0
+
+
+Tx1 data G
+Tx2 off R
